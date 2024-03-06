@@ -1,0 +1,6 @@
+Application ID
+ac390952
+Application Keys
+230fdd1d2294c2f10b75ef2ca142b1fe	—
+
+(https://api.edamam.com/search?q=${search}&app_id=249b8c77&app_key=accc417489d9e0dfa317fbc0cb7be4c8)
